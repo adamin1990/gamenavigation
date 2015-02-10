@@ -33,6 +33,9 @@
 *  [SLIDINGMENU](https://github.com/jfeinstein10/SlidingMenu);
 
 
+##[服务端程序](https://github.com/adamin1990/gamenavigationserver)
+
+
 ##SCREENSHOT
 
 ![image](https://github.com/adamin1990/gamenavigation/raw/master/art/a.png)
